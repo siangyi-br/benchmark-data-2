@@ -1,0 +1,12 @@
+Proceed? [y/n] y
+Checking for available remotes: rsync and local, git.
+  - you won't be able to use mercurial repositories unless you install the hg command on your system.
+  - you won't be able to use darcs repositories unless you install the darcs command on your system.
+
+
+<><> Fetching repository information ><><><><><><><><><><><><><><><><><><><><><>
+[coq-core-dev] Initialised
+[coq-extra-dev] Initialised
+[custom-archive] Initialised
+[coq-released] Initialised
+[default] Initialised
