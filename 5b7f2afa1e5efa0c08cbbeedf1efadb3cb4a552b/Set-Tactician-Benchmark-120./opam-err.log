@@ -549,4 +549,3 @@
 [NOTE] Package coq-tactician-api is already pinned to git+ssh://git@github.com/BlueRavenAI/coq-tactician-api#5b7f2afa1e5efa0c08cbbeedf1efadb3cb4a552b (version 15.0+8.11).
 [WARNING] Failed checks on coq-tactician-api package definition from source at git+ssh://git@github.com/BlueRavenAI/coq-tactician-api#5b7f2afa1e5efa0c08cbbeedf1efadb3cb4a552b:
            warning 68: Missing field 'license'
-[NOTE] Package coq-tactician-stdlib is already installed (current version is 8.11.dev).
